@@ -33,6 +33,7 @@ print'<h3>' . $_SESSION['question'] . '</h3>';
 print'<input type="text" name="answer">';
 print'<br>';
 print'<br>';
-print '<button class="w-100 btn btn-lg btn-primary" type="submit">Submit Answer</button>';
+print'<button class="w-100 btn btn-lg btn-primary" type="submit">Submit Answer</button>';
 print'</form>';
 print'</main>';
+print'</body>';

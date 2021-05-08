@@ -43,3 +43,4 @@ print'<h3>You have ' . $_SESSION['correct_total'] . ' correct answers</h3>';
 print'<a class="nav-link text-white" href="question_action.php">Get Another Question</a>';
 print'<a class="nav-link text-white" href="home.php">Go Back to the Dashboard</a>';
 print'</main>';
+print'</body>';

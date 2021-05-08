@@ -30,3 +30,4 @@ print'<br>';
 print'<main class="px-3">';
 print'<h1>Welcome, ' . $_SESSION['name'] . '</h1>';
 print'</main>';
+print'</body>';
